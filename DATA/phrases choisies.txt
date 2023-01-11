@@ -1,0 +1,93 @@
+
+"On ne l'avait jamais vu ni à la Bourse, ni à la Banque, ni dans aucun des comptoirs de la Cité. "
+On (PRON, pronom) 1
+ne (PART, particule négative) 1
+l' (PRON, pronom) 1
+avait (AUX, auxiliaire "avoir") 1
+jamais (ADV, adverbe) 1
+vu (VERB, verbe "voir") 1
+ni (CCONJ, conjonction de coordination "ni") 1
+à (ADP, préposition "à") 1
+la (DET, déterminant) 1
+Bourse (PROPN, nom propre) 1
+, (PUNCT, ponctuation) 
+ni (CCONJ, conjonction de coordination "ni") 1
+à (ADP, préposition "à") 1
+la (DET, déterminant) 1
+Banque (PROPN, nom propre)
+, (PUNCT, ponctuation)1
+ni (CCONJ, conjonction de coordination "ni") 1
+dans (ADP, préposition "dans") 1
+aucun (DET, déterminant) 1
+des (DET, déterminant) 1
+comptoirs (NOUN, nom commun) 1
+de (ADP, préposition "de") 1
+la (DET, déterminant) 1
+Cité (PROPN, nom propre)
+. (PUNCT, ponctuation)1
+
+"Ni les bassins ni les docks de Londres n'avaient jamais reçu un navire ayant pour armateur Phileas Fogg."
+Ni (CCONJ, conjonction de coordination "ni") 1
+les (DET, déterminant) 1
+bassins (NOUN, nom commun) 1
+ni (CCONJ, conjonction de coordination "ni") 1	
+les (DET, déterminant) 1
+docks (NOUN, nom commun) 1
+de (PREP, préposition "de") 1	
+Londres (PROPN, nom propre) 1	
+n' (PART, particule négative) 	1
+avaient (AUX, auxiliaire "avoir")1
+jamais (ADV, adverbe) 1	
+reçu (VERB, verbe "recevoir") 1
+un (DET, déterminant) 1
+navire  (NOUN, nom commun) 1
+ayant (VERB, verbe "avoir")1
+pour (PREP, préposition "pour") 1	
+armateur (NOUN, nom commun) 1
+Phileas (PROPN, nom propre) 
+Fogg (PROPN, nom propre) 
+. (PUNCT, ponctuation)1
+
+
+"En tout cas, il n'était prodigue de rien, mais non avare, car partout où il manquait un appoint pour une chose noble, utile ou généreuse, il l'apportait silencieusement et même anonymement. "
+En (PREP, préposition "en") 1
+tout (DET, déterminant) 1	
+cas (NOUN, nom commun) 1
+, (PUNCT, ponctuation)	1
+il (PRON, pronom) 1
+n' (PART, particule négative)1
+était (AUX, auxiliaire "être")1
+prodigue (ADJ, adjectif) 1
+de (PREP, préposition "de") 1	
+rien (PRON, pronom) 1
+, (PUNCT, ponctuation)	1	
+mais (CCONJ, conjonction de coordination "mais") 1
+non (ADV, adverbe) 1
+avare (ADJ, adjectif) 1
+, (PUNCT, ponctuation)	1
+car (SCONJ, conjonction de subordination "car") 1
+partout (ADV, adverbe) 1	
+où (PRON, pronom) 1
+il (PRON, pronom) 1
+manquait (VERB, verbe "manquer") 1
+un (DET, déterminant) 1
+appoint :(NOUN, nom commun) 1
+pour (PREP, préposition) 1	
+une (DET, déterminant) 1
+chose (NOUN, nom commun) 1
+noble (ADJ, adjectif) 1
+, (PUNCT, ponctuation)1
+utile (ADJ, adjectif) 1
+ou (CCOONJ, conjonction de coordination) 1	
+généreuse (ADJ, adjectif) 1	
+, (PUNCT, ponctuation)1
+il (PRON, pronom) 1
+l' (PRON, pronom) 1
+apportait (VERB, verbe "apporter") 1
+silencieusement (ADV, adverbe)1
+et (CCONJ, conjonction de coordination) 1	
+même (ADV, adverbe) 	1
+anonymement (ADV, adverbe) 1
+, (PUNCT, ponctuation)	1
+
+
